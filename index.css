@@ -1,0 +1,19 @@
+.txt {
+    font-weight: bold;
+    text-decoration: underline;
+    text-shadow: 0 0 10px #000000 , 0 0 10px #ffffff;
+}
+.red {
+    accent-color: red;
+    width: 100%;
+    
+    
+}
+.green {
+    accent-color: green;
+    width: 100%;
+}
+.blue {
+    accent-color: blue;
+    width: 100%;
+}
